@@ -1,0 +1,4 @@
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA3.X\UYGULAMA3.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA3.X\UYGULAMA3.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA3.X\UYGULAMA3.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA3.X\UYGULAMA3.ASM 21 : Found directive in column 1. (END)
