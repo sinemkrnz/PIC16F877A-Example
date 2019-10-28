@@ -1,0 +1,34 @@
+
+    LIST P=16F877A
+    #INCLUDE <P16F877A.INC>
+    ORG 0X00
+    GOTO INIT
+    
+INIT
+    BCF STATUS,6
+    BSF STATUS,5
+    MOVLW B'00000001'
+    MOVWF TRISB
+    BCF STATUS,6
+    BCF STATUS,5
+    CLRF PORTB
+    
+MAIN
+    BTFSC PORTB,0
+    GOTO ON
+    GOTO OFF
+    GOTO MAIN
+
+ON
+    BSF PORTB,4
+    GOTO MAIN
+  
+OFF
+    BCF PORTB,4
+    GOTO MAIN
+    
+END 
+    
+
+
+
