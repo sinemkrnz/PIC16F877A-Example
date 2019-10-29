@@ -1,0 +1,38 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Tue Oct 29 14:30:03 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00002a
+                   .cinit    romdata   0x000015    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000016      
+            23 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+                     MAIN   0x00000b    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+                      OFF   0x000013    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+                       ON   0x000010    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+                     MAIN   0x00000b    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+                       ON   0x000010    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+                      OFF   0x000013    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama5.X\Uygulama5.asm
+
+
