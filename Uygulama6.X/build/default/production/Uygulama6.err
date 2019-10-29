@@ -1,0 +1,7 @@
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 4 : Found label after column 1. (CNT)
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 5 : Found label after column 1. (VAR1)
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 6 : Found label after column 1. (VAR2)
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 58 : Found directive in column 1. (END)

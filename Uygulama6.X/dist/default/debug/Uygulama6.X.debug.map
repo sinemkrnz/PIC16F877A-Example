@@ -1,0 +1,40 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Tue Oct 29 15:54:28 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00002e
+                   .cinit    romdata   0x000017    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000018      
+            25 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 DECREASE   0x00000d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                     MAIN   0x00000a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                       ON   0x000014    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                      RST   0x000010    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                     MAIN   0x00000a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                 DECREASE   0x00000d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                      RST   0x000010    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+                       ON   0x000014    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama6.X\Uygulama6.asm
+
+

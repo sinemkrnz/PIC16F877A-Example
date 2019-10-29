@@ -1,0 +1,4 @@
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 4 : Found label after column 1. (CNT)
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA6.X\UYGULAMA6.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
