@@ -1,0 +1,36 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Tue Oct 29 21:50:32 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000026
+                   .cinit    romdata   0x000013    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000014      
+            21 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    DIVID   0x00000a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama8.X\Uygulama8.asm
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama8.X\Uygulama8.asm
+                   RESULT   0x000010    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama8.X\Uygulama8.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama8.X\Uygulama8.asm
+                    DIVID   0x00000a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama8.X\Uygulama8.asm
+                   RESULT   0x000010    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama8.X\Uygulama8.asm
+
+

@@ -1,0 +1,7 @@
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA8.X\UYGULAMA8.ASM 3 : Found label after column 1. (VAR1)
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA8.X\UYGULAMA8.ASM 4 : Found label after column 1. (VAR2)
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA8.X\UYGULAMA8.ASM 5 : Found label after column 1. (COUNTER)
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA8.X\UYGULAMA8.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA8.X\UYGULAMA8.ASM 20 : Using default destination of 1 (file).
+Message[305] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA8.X\UYGULAMA8.ASM 28 : Using default destination of 1 (file).
+Warning[205] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA8.X\UYGULAMA8.ASM 33 : Found directive in column 1. (END)
