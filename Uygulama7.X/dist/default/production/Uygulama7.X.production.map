@@ -1,0 +1,46 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Tue Oct 29 20:52:03 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00004c
+                   .cinit    romdata   0x000026    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000027      
+            40 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    DELAY   0x00001d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                   DELAY2   0x00001f    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                   DELAY3   0x000021    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                     INCR   0x00000e    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                     MAIN   0x00000b    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                       ON   0x000014    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                     REST   0x00001a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                     MAIN   0x00000b    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                     INCR   0x00000e    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                       ON   0x000014    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                     REST   0x00001a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                    DELAY   0x00001d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                   DELAY2   0x00001f    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+                   DELAY3   0x000021    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama7.X\Uygulama7.asm
+
+
