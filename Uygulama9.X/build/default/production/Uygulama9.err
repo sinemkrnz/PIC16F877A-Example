@@ -1,0 +1,9 @@
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 3 : Found label after column 1. (COUNTER)
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 4 : Found label after column 1. (VAR1)
+Warning[207] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 5 : Found label after column 1. (VAR2)
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 31 : Using default destination of 1 (file).
+Message[305] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 41 : Using default destination of 1 (file).
+Warning[205] C:\USERS\SINEM\DESKTOP\PROJELER\UYGULAMA9.X\UYGULAMA9.ASM 82 : Found directive in column 1. (END)

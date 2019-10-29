@@ -1,0 +1,50 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Tue Oct 29 23:51:09 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000072
+                   .cinit    romdata   0x000039    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00003a      
+            59 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+              CONTROL_DEC   0x00001d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+              CONTROL_INC   0x000027    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                 DECREASE   0x000017    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                    DELAY   0x000030    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                   DELAY2   0x000032    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                   DELAY3   0x000034    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                 INCREASE   0x00000f    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                     MAIN   0x00000a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                       ON   0x00002d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                     MAIN   0x00000a    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                 INCREASE   0x00000f    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                 DECREASE   0x000017    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+              CONTROL_DEC   0x00001d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+              CONTROL_INC   0x000027    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                       ON   0x00002d    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                    DELAY   0x000030    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                   DELAY2   0x000032    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+                   DELAY3   0x000034    program     static C:\Users\Sinem\Desktop\Projeler\Uygulama9.X\Uygulama9.asm
+
+
