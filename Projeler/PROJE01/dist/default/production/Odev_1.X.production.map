@@ -1,0 +1,52 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Sun Nov 03 18:47:53 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00007e
+                   .cinit    romdata   0x00003f    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/NEWASMT       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000040      
+                            0x002007    0x002007      
+            66 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 BUTTON_5   0x000013    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+               COUNT_DOWN   0x00001a    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                 COUNT_UP   0x000026    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                    DELAY   0x000036    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   DELAY2   0x000038    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   DELAY3   0x00003a    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                     MAIN   0x00000f    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   ON_LED   0x000030    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   ROUTER   0x000017    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000001    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                     MAIN   0x00000f    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                 BUTTON_5   0x000013    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   ROUTER   0x000017    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+               COUNT_DOWN   0x00001a    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                 COUNT_UP   0x000026    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   ON_LED   0x000030    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                    DELAY   0x000036    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   DELAY2   0x000038    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+                   DELAY3   0x00003a    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_1.X\newAsmTemplate.asm
+
+
