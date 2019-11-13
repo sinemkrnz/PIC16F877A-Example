@@ -1,0 +1,12 @@
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 3 : Found label after column 1. (SAYAC)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 4 : Found label after column 1. (TABLO_SAY)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 5 : Found label after column 1. (SAYAC2)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 6 : Found label after column 1. (TABLO_SAY2)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 7 : Found label after column 1. (VAR1)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 8 : Found label after column 1. (VAR2)
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 133 : Found directive in column 1. (END)

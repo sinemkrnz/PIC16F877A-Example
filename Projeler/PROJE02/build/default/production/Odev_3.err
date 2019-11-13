@@ -1,0 +1,12 @@
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 4 : Found label after column 1. (COUNTER)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 5 : Found label after column 1. (RIGHT)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 6 : Found label after column 1. (LEFT)
+Warning[207] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 7 : Found label after column 1. (VAR1)
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 55 : Using default destination of 1 (file).
+Message[305] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 63 : Using default destination of 1 (file).
+Message[305] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 71 : Using default destination of 1 (file).
+Message[305] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 85 : Using default destination of 1 (file).
+Message[305] C:\USERS\SINEM\DESKTOP\MIKROISLEMCILER_ODEVLER\ODEV_3.X\ODEV_3.ASM 90 : Using default destination of 1 (file).

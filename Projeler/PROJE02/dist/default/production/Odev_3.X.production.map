@@ -1,0 +1,52 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Tue Nov 12 00:00:41 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000004    program   0x00009c
+.config_2007_BUILD/DEFAULT/PRODUCTION/ODEV_3.       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000004    0x000051      
+                            0x002007    0x002007      
+            82 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    DELAY   0x000043    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                   DELAY2   0x000044    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                     INIT   0x000005    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                INTERRUPT   0x000023    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+            INTERRUPT_END   0x000040    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+           LEFT_INCREMENT   0x000039    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                  LOOK_UP   0x000047    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                     MAIN   0x000016    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+          RIGHT_INCREMENT   0x000032    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000005    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                     MAIN   0x000016    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                INTERRUPT   0x000023    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+          RIGHT_INCREMENT   0x000032    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+           LEFT_INCREMENT   0x000039    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+            INTERRUPT_END   0x000040    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                    DELAY   0x000043    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                   DELAY2   0x000044    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+                  LOOK_UP   0x000047    program     static C:\Users\Sinem\Desktop\Mikroislemciler_Odevler\Odev_3.X\Odev_3.asm
+
+
